@@ -126,9 +126,9 @@ fprintf(stderr, "shmdt failed\n"); exit(EXIT_FAILURE);
 
 
 ## OUTPUT:
-![alt text](<Screenshot at 2025-11-17 12-55-00.png>)
+<img width="513" height="251" alt="Screenshot at 2025-11-17 12-55-00" src="https://github.com/user-attachments/assets/c29c506a-4be5-43c0-a3b5-425597363386" />
 
-![alt text](2.png)
+<img width="741" height="660" alt="2" src="https://github.com/user-attachments/assets/84520a96-c0b8-4d9e-9856-c7d99dc00b15" />
 
 # RESULT:
 The program is executed successfully.
